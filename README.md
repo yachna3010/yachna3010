@@ -42,8 +42,8 @@
 ---
 
 ## 🌐 Connect With Me  
-📩 Email: **[your.email@example.com]**  
-💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com)  
+📩 Email: **[yachnapatel3010@gmail.com]**  
+💼 LinkedIn: [linkedin.com/in/yachnapatel](https://www.linkedin.com/in/yachnapatel/)  
 🌍 Portfolio: *Coming soon*  
 
 ---
