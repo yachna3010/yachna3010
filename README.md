@@ -1,35 +1,40 @@
-# 👋 Hey there, I'm Yachna  
+# 👋 Hey, I'm Yachna  
 
 💻 **Computer Programming & Analysis Student @ Seneca Polytechnic**  
-🚀 Passionate about building **modern web apps, creative UI/UX designs, and full-stack solutions**  
-🌟 Always curious, always learning, always shipping cool projects.  
+🌟 Passionate about crafting **modern web apps, clean UI designs, and functional projects**  
+🚀 Always learning, always building.  
 
 ---
 
 ## 🔥 About Me  
-- 🎨 I love blending **design & code** — from **Glassmorphism UIs** to **scalable back-ends**  
-- 📦 Experienced with **JavaScript, Node.js, Java, C++, Python** and more  
-- 🛠 Building projects that mix **functionality + aesthetics**  
-- 🌍 Based in Canada, exploring **tech, design, and entrepreneurship**  
-- ⚡ Fun fact: I treat coding projects like side quests 🎮 — some are big boss fights (complex systems), others are creative sparks (beautiful UI builds).  
+- 🎨 I enjoy working on projects that combine **design + development**  
+- 💻 Skilled in **HTML, CSS, JavaScript, and front-end development**  
+- 🌍 Exploring frameworks, APIs, and advanced projects step by step  
+- ⚡ I take on small UI challenges (like Glassmorphism) as **side quests** while also diving into more complex builds  
 
 ---
 
-## 🛠 Tech Stack  
-**Languages:** C++, Java, JavaScript, Python, SQL  
-**Frameworks:** React, Node.js, Express, JavaFX, Next.js  
-**Databases:** MongoDB, MySQL, Supabase, DynamoDB  
-**Tools:** Git, Docker, AWS (S3, EC2, LocalStack), Vercel, Figma  
-**Other:** UI/UX Design, Responsive Web Development, APIs  
+## 🚀 My Projects  
+
+🔹 [**WEBapp**](https://github.com/yachna3010/WEBapp)  
+A JavaScript-powered project showcasing dynamic web functionality and interactivity.  
+
+🔹 [**Web422**](https://github.com/yachna3010/Web422)  
+JavaScript-based coursework project with a focus on **modern web development** concepts.  
+
+🔹 [**YouTube Clone**](https://github.com/yachna3010/Youtube-Clone)  
+A static front-end **YouTube clone UI** built with HTML — replicating the structure and styling of a popular platform.  
+
+🔹 [**Glassmorphism Login Form**](https://github.com/yachna3010/glassmorphism-login-form)  
+A modern login page with **frosted glass effects, gradients, and animated floating squares**.  
+👉 [Live Demo](https://glassmorphism-login-form-rho.vercel.app/)  
 
 ---
 
-## 🚀 Featured Projects  
-🌐 [**Glassmorphism Login Form**](https://glassmorphism-login-form-rho.vercel.app/) – A modern UI experiment with gradients, blur, and animations  
-🍔 [**SubMaster**](https://submaster.ca) – Premium sandwich ordering web app with Stripe integration  
-📊 **Dine-In Digital** – C++ restaurant management system with menu, orders, and billing (academic milestone project)  
-📦 **Store Manager** – Web app for inventory & order tracking (Next.js + Supabase + Telegram bot)  
-🏨 **Hotel Booking System** – JavaFX multi-step booking flow with persistent state management  
+## 🛠 Tech Skills  
+**Languages:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, Vercel, VS Code  
+**Focus Areas:** UI/UX Design, Responsive Web Development  
 
 ---
 
@@ -42,10 +47,9 @@
 ---
 
 ## 🌐 Connect With Me  
-📩 Email: **[yachnapatel3010@gmail.com]**  
+📩 Email: **[your.email@example.com]**  
 💼 LinkedIn: [linkedin.com/in/yachnapatel](https://www.linkedin.com/in/yachnapatel/)  
-🌍 Portfolio: *Coming soon*  
 
 ---
 
-✨ *“Code is where creativity meets logic — I’m here for both.”*  
+✨ *Balancing clean design with functional code, one project at a time.*  
