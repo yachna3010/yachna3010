@@ -47,7 +47,7 @@ A modern login page with **frosted glass effects, gradients, and animated floati
 ---
 
 ## 🌐 Connect With Me  
-📩 Email: **[yachnapatel3010@gmail.com]**  
+📩 Email: **yachnapatel3010@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/yachnapatel](https://www.linkedin.com/in/yachnapatel/)  
 
 ---
